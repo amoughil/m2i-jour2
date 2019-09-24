@@ -1,0 +1,5 @@
+config.yaml
+# LOGS
+logs/*
+!logs/.gitkeep
+.gitignore
